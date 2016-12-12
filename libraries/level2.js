@@ -3,6 +3,7 @@ function levelTwo(){
 
   //clear();
   platform.remove ();
+  platform3.remove ();
   background(bkgr2);
 
  // fill(255);

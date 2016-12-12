@@ -225,7 +225,7 @@ function draw() {
 
 function keyTyped() {
   if (key === 'x') {
-    gameState = 'levelThree';
+    gameState = 'levelOne';
     bkgrTrack1.setVolume(0.1);
     bkgrTrack1.loop();
   }
